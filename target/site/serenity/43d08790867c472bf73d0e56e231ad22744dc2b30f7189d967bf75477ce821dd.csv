@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create booking CRUD test","This will Auth user","SUCCESS","2022-06-05T11:30:26.461+02:00[Europe/Paris]","0.0","3.08"
+"Create booking CRUD test","This will Create a booking user","SUCCESS","2022-06-05T11:30:29.556+02:00[Europe/Paris]","0.0","0.64"
+"Create booking CRUD test","This will Update a booking","SUCCESS","2022-06-05T11:30:30.197+02:00[Europe/Paris]","0.0","0.53"
+"Create booking CRUD test","This will Deleted a user","SUCCESS","2022-06-05T11:30:30.730+02:00[Europe/Paris]","0.0","1.09"
