@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.herokuapp.restful</groupId>
-  <artifactId>homework-week-18-project-4-herokuapp-com-serenity</artifactId>
+  <artifactId>homework-week-19-project-4-herokuapp-com-serenity-cucumber</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>homework-week-18-project-4-herokuapp-com-serenity</name>
+  <name>homework-week-19-project-4-herokuapp-com-serenity-cucumber</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
